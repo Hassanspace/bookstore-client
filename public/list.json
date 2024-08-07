@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Epic Fantasy",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "10.00",
+    "category": "epic",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Drak Fantasy",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "10.00",
+    "category": "dark",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Comic Fantasy",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "0.00",
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Detective Fiction",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "0.00",
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Spy Thriller",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "30.00",
+    "category": "Thriller",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Magical Realism",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "60.00",
+    "category": "Magical",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Crime Fiction ",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "0.00",
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Thriller Fiction ",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "0.00",
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Time Travel",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "0.00",
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Supernatural Horror",
+    "title": "lorem Ipsum dolor sit amet, consectetur adipis",
+    "price": "0.00",
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/halloween-background-flat-design_52683-45825.jpg?t=st=1722593752~exp=1722597352~hmac=19ad2c119c8e410d1fe3e8d90366de08ba53957601a74add9184633b60536a65&w=740"
+  }
+
+]
