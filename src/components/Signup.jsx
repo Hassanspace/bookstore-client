@@ -19,7 +19,7 @@ const Signup = () => {
     };
 
     try {
-      const res = await axios.post("http://localhost:4001/user/signup", userInfo);
+      const res = await axios.post("https://bookstore-server-3e5u.vercel.app//user/signup", userInfo);
       console.log(res.data);
       if (res.data) {
         toast.success('Account Created Successfully! Redirecting', {
